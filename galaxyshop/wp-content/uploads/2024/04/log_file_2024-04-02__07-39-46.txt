@@ -1,0 +1,395 @@
+
+---فایلهای بارگیری شده---
+فایلهای درون ریزی برای:Demo 1 با موفقیت بارگیری شد!
+حداکثر زمان اجرای اولیه =120
+اطلاعات فایل ها :
+Site URL = http://localhost/galaxyshop
+فایل اطلاعات = C:\wamp64\www\galaxyshop\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-wordpress.xml
+فایل ابزارک = C:\wamp64\www\galaxyshop\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-widgets.wie
+فایل های سفارشی ساز= C:\wamp64\www\galaxyshop\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-customizer.dat
+Redux فایل ها:
+تعریف نشده!
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "woocommerce-placeholder" (رسانه)
+[ERROR] Failed to import "logo" (رسانه)
+[ERROR] Failed to import "banner3-menf2" (رسانه)
+[ERROR] Failed to import "banner11" (رسانه)
+[ERROR] Failed to import "banner2-chothing2" (رسانه)
+[ERROR] Failed to import "slide4" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "slide5" (رسانه)
+[ERROR] Failed to import "slide1" (رسانه)
+[ERROR] Failed to import "slide2" (رسانه)
+[ERROR] Failed to import "slide3-1" (رسانه)
+[ERROR] Failed to import "girl-butterfly-dress" (رسانه)
+[ERROR] Failed to import "slide4-1" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "slide4-2" (رسانه)
+[ERROR] Failed to import "animal-cute-isolated-cow-object-toy-1413513-pxhere.com (1)" (رسانه)
+[ERROR] Failed to import "animal-cute-isolated-object-toy-material-1007992-pxhere.com (1)" (رسانه)
+[ERROR] Failed to import "animal-cute-isolated-object-toy-product-1007993-pxhere.com" (رسانه)
+[ERROR] Failed to import "animal-cute-isolated-sitting-amphibian-object-1007991-pxhere.com" (رسانه)
+[ERROR] Failed to import "animal-cute-isolated-toy-rabbit-product-1007989-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "blossom-plant-white-flower-petal-floral-659790-pxhere.com" (رسانه)
+[ERROR] Failed to import "camera-photographer-photo-lens-headlamp-electronics-939772-pxhere.com" (رسانه)
+[ERROR] Failed to import "car-exhibition-equipment-model-toy-crash-1447501-pxhere.com" (رسانه)
+[ERROR] Failed to import "car-exhibition-equipment-model-toy-crash-1447503-pxhere.com" (رسانه)
+[ERROR] Failed to import "car-exhibition-equipment-model-toy-crash-1447505-pxhere.com" (رسانه)
+[ERROR] Failed to import "car-exhibition-equipment-model-toy-crash-1447507-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "car-exhibition-equipment-model-toy-crash-1447511-pxhere.com" (رسانه)
+[ERROR] Failed to import "cart" (رسانه)
+[ERROR] Failed to import "cart-toy-product-kids-car-seat-baby-carriage-633999-pxhere.com" (رسانه)
+[ERROR] Failed to import "Chicago-Museum-Asian-Art-Stupa-Reliquary-1471121-pxhere.com" (رسانه)
+[ERROR] Failed to import "drone-camera-isolated-background-helicopter-technology-1446049-pxhere.com" (رسانه)
+[ERROR] Failed to import "drone-camera-isolated-background-helicopter-technology-1446059-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "forest-girl-view-model-fashion-clothing-768251-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-dance-baby-doll-dancer-sports-figurine-687977-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-photography-portrait-model-spring-red-645517-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-statue-toy-baby-doll-doll-art-687962-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-statue-toy-baby-doll-sculpture-doll-851052-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-toy-baby-doll-doll-illustration-figurine-851037-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "girl-toy-baby-doll-sculpture-art-figurine-687968-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-view-portrait-model-fashion-clothing-768261-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-white-palm-tree-summer-pattern-shop-1189149-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-woman-female-standing-fashion-clothing-527808-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-woman-female-standing-fashion-clothing-527819-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-woman-female-standing-fashion-clothing-1218703-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "girl-woman-female-standing-pattern-jeans-527791-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-woman-leg-standing-fashion-clothing-1045574-pxhere.com" (رسانه)
+[ERROR] Failed to import "girl-woman-leg-standing-young-clothing-639769-pxhere.com" (رسانه)
+[ERROR] Failed to import "hand-person-black-and-white-people-girl-woman-787072-pxhere.com" (رسانه)
+[ERROR] Failed to import "hand-person-people-girl-woman-hair-419016-pxhere.com" (رسانه)
+[ERROR] Failed to import "hand-table-plant-woman-white-ring-572921-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "hand-white-isolated-steel-gift-decoration-1069893-pxhere.com" (رسانه)
+[ERROR] Failed to import "hand-white-spiral-isolated-steel-gift-1069888-pxhere.com" (رسانه)
+[ERROR] Failed to import "leather-chair-furniture-sofa-couch-lounge-1416078-pxhere.com" (رسانه)
+[ERROR] Failed to import "man-person-black-and-white-people-girl-woman-1032171-pxhere.com" (رسانه)
+[ERROR] Failed to import "man-person-leather-clothing-arm-headgear-34374-pxhere.com" (رسانه)
+[ERROR] Failed to import "man-person-photography-boy-male-pattern-949428-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "man-rock-person-music-people-hair-747065-pxhere.com" (رسانه)
+[ERROR] Failed to import "outdoor-person-people-girl-woman-hair-418994-pxhere.com" (رسانه)
+[ERROR] Failed to import "people-girl-woman-white-leather-female-703604-pxhere.com" (رسانه)
+[ERROR] Failed to import "people-girl-woman-white-leather-female-703608-pxhere.com" (رسانه)
+[ERROR] Failed to import "people-girl-woman-white-leather-female-703609-pxhere.com" (رسانه)
+[ERROR] Failed to import "people-girl-woman-white-leather-female-703612-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "people-hair-wild-portrait-red-color-606493-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-black-and-white-people-girl-woman-hair-368845-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-black-and-white-people-girl-woman-hair-1032179-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-girl-hair-photography-singer-portrait-645506-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-girl-woman-hair-white-photography-1032638-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-people-girl-woman-hair-photography-419877-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "person-people-girl-woman-hair-sweet-419870-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-people-girl-woman-hair-sweet-791454-pxhere.com" (رسانه)
+[ERROR] Failed to import "photograph-green-clothing-beauty-lady-shoulder-1572151-pxhere.com" (رسانه)
+[ERROR] Failed to import "plant-white-flower-petal-bouquet-yellow-962433-pxhere.com" (رسانه)
+[ERROR] Failed to import "product-pram-family-toddler-stroller-baby-carriage-549948-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "rock-music-people-night-smoke-crowd-655306-pxhere.com" (رسانه)
+[ERROR] Failed to import "rock-silhouette-music-light-group-people-1333828-pxhere.com" (رسانه)
+[ERROR] Failed to import "sculpture-classical-sculpture-statue-figurine-metal-bronze-sculpture-1470169-pxhere.com" (رسانه)
+[ERROR] Failed to import "shoe-leather-boot-foot-brown-fashion-713616-pxhere.com" (رسانه)
+[ERROR] Failed to import "shoe-leather-fashion-blue-material-brand-641516-pxhere.com" (رسانه)
+[ERROR] Failed to import "shoe-leather-foot-brown-fashion-lifestyle-713609-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "shoe-leather-foot-brown-fashion-lifestyle-713618-pxhere.com" (رسانه)
+[ERROR] Failed to import "shoe-leather-shop-fashion-market-blue-856028-pxhere.com" (رسانه)
+[ERROR] Failed to import "shoe-shop-fashion-market-blue-modern-856026-pxhere.com" (رسانه)
+[ERROR] Failed to import "shoe-sport-run-green-yellow-running-shoe-908763-pxhere.com" (رسانه)
+[ERROR] Failed to import "shoe-sport-run-leisure-fitness-running-shoe-958806-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "shoe-sport-run-leisure-fitness-running-shoe-975678-pxhere.com" (رسانه)
+[ERROR] Failed to import "shoe-sport-run-pink-leisure-fitness-958791-pxhere.com" (رسانه)
+[ERROR] Failed to import "table-leather-chair-interior-photo-bar-662555-pxhere.com" (رسانه)
+[ERROR] Failed to import "vintage-typewriter-machine-paper-product-mechanical-99179-pxhere.com" (رسانه)
+[ERROR] Failed to import "watch-camera-retro-glass-black-product-40666-pxhere.com" (رسانه)
+[ERROR] Failed to import "white-chair-balloon-lamp-furniture-pink-103143-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "woman-blue-bead-jewelry-bracelet-jewellery-1124430-pxhere.com" (رسانه)
+[ERROR] Failed to import "woman-hat-fashion-clothing-ear-blonde-1167943-pxhere.com" (رسانه)
+[ERROR] Failed to import "woman-hay-pattern-bag-handbag-crochet-1197304-pxhere.com" (رسانه)
+[ERROR] Failed to import "woman-leather-travel-female-bag-fashion-840745-pxhere.com" (رسانه)
+[ERROR] Failed to import "woman-letter-fashion-blue-bead-jewelry-1188601-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "woman-orange-pattern-model-fashion-clothing-883977-pxhere.com" (رسانه)
+[ERROR] Failed to import "woman-vintage-female-model-fashion-lady-779631-pxhere.com" (رسانه)
+[ERROR] Failed to import "work-hand-branch-sharp-plastic-isolated-790946-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-woman-leather-model-fashion-clothing-1064192-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-woman-cute-fur-model-fashion-1070050-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "person-woman-looking-model-fashion-clothing-1112358-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-woman-leather-cute-looking-pattern-1056116-pxhere.com" (رسانه)
+[ERROR] Failed to import "man-person-woman-sport-leather-model-1364208-pxhere.com" (رسانه)
+[ERROR] Failed to import "action-beach-best-friends-1974856" (رسانه)
+[ERROR] Failed to import "ancient-history-sculpture-stone-carving-artifact-monument-memorial-1470149-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "watch-hand-time-jewellery-wrist-watch-gold-1025101-pxhere.com" (رسانه)
+[ERROR] Failed to import "watch-hand-ring-time-fashion-jewellery-1150644-pxhere.com" (رسانه)
+[ERROR] Failed to import "watch-hand-woman-gift-metal-fashion-1114800-pxhere.com" (رسانه)
+[ERROR] Failed to import "hand-woman-gift-fashion-present-jewellery-1114812-pxhere.com" (رسانه)
+[ERROR] Failed to import "watch-hand-clock-time-metal-material-1210480-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "watch-hand-clock-time-timepiece-clock-face-1378833-pxhere.com" (رسانه)
+[ERROR] Failed to import "watch-watch-accessory-metal-watch-strap-product-font-1420124-pxhere.com" (رسانه)
+[ERROR] Failed to import "watch-watch-accessory-metal-watch-strap-product-platinum-1420125-pxhere.com" (رسانه)
+[ERROR] Failed to import "watch-hand-band-yellow-jewellery-luxury-1349212-pxhere.com" (رسانه)
+[ERROR] Failed to import "watch-ring-band-metal-fashion-bangle-1121858-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "watch-hand-clock-time-fashion-brand-1015385-pxhere.com" (رسانه)
+[ERROR] Failed to import "watch-hand-leather-clock-time-fashion-1015416-pxhere.com" (رسانه)
+[ERROR] Failed to import "watch-hand-leather-clock-time-fashion-1119860-pxhere.com" (رسانه)
+[ERROR] Failed to import "utensil-sun-glass-brown-fashion-optics-1042997-pxhere.com" (رسانه)
+[ERROR] Failed to import "utensil-sun-glass-brown-fashion-optics-634420-pxhere.com" (رسانه)
+[ERROR] Failed to import "utensil-sun-glass-brown-gadget-fashion-634433-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "utensil-sun-glass-brown-fashion-optics-1042996-pxhere.com" (رسانه)
+[ERROR] Failed to import "utensil-lens-brown-brand-cool-sunglasses-642813-pxhere.com" (رسانه)
+[ERROR] Failed to import "utensil-yellow-brand-cool-sunglasses-glasses-642800-pxhere.com" (رسانه)
+[ERROR] Failed to import "utensil-yellow-brand-cool-sunglasses-glasses-642820-pxhere.com" (رسانه)
+[ERROR] Failed to import "utensil-lens-brand-cool-sunglasses-glasses-642824-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "summer-orange-product-font-sunglasses-glasses-1416700-pxhere.com" (رسانه)
+[ERROR] Failed to import "summer-orange-lens-sunglasses-glasses-goggles-1017568-pxhere.com" (رسانه)
+[ERROR] Failed to import "summer-fashion-product-sunglasses-glasses-eyewear-1017590-pxhere.com" (رسانه)
+[ERROR] Failed to import "summer-fashion-sunglasses-glasses-goggles-eyewear-1017606-pxhere.com" (رسانه)
+[ERROR] Failed to import "man-leather-photography-male-guy-singer-150844-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "decoration-background-white-tree-color-holiday-1457875-pxhere.com (1)" (رسانه)
+[ERROR] Failed to import "feshion-menf2" (رسانه)
+[ERROR] Failed to import "banner2-chothing3" (رسانه)
+[ERROR] Failed to import "tim-gouw-212348.jpg" (رسانه)
+[ERROR] Failed to import "vication4.jpg" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "darkside.png" (رسانه)
+[ERROR] Failed to import "zusman.png" (رسانه)
+[ERROR] Failed to import "ARMOND.png" (رسانه)
+[ERROR] Failed to import "larozse.png" (رسانه)
+[ERROR] Failed to import "ECOCODE.png" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "BOLEIR.png" (رسانه)
+[ERROR] Failed to import "GEO.png" (رسانه)
+[ERROR] Failed to import "x.venox_.png" (رسانه)
+[ERROR] Failed to import "FIFTHFLOUR.png" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "top-cover.jpg" (رسانه)
+[ERROR] Failed to import "header-banner1" (رسانه)
+[ERROR] Failed to import "wedding-luxury-bride-background-paris-honeymoon-1420849-pxhere.com" (رسانه)
+[ERROR] Failed to import "cute-clothing-beauty-shoulder-jeans-girl-1543007-pxhere.com" (رسانه)
+[ERROR] Failed to import "model-winter-pose-male-jacket-field-1418483-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "sunglasses-adorable-blur-boy-child-children-1419082-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-girl-woman-hair-white-photography-643128-pxhere.com" (رسانه)
+[ERROR] Failed to import "man-white-male-female-love-spring-826946-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-girl-woman-hair-photography-love-1230347-pxhere.com" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "girl-woman-female-model-spring-red-1391960-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-girl-hair-kid-cute-model-838626-pxhere.com" (رسانه)
+[ERROR] Failed to import "person-girl-woman-hair-photography-female-1408903-pxhere.com" (رسانه)
+[ERROR] Failed to import "black-and-white-girl-woman-white-photography-time-495601-pxhere.com" (رسانه)
+[ERROR] Failed to import "screenshot-newstore" (رسانه)
+
+
+------
+صدا زدن جدید ایجکس
+[WARNING] Failed to import action-group woocommerce-db-updates
+[ERROR] Failed to import "newstore-demo-2" (رسانه)
+[ERROR] Failed to import "newstore-demo-3" (رسانه)
+[ERROR] Failed to import "newstore-demo-4" (رسانه)
+
+
+---درحال درون ریزی ابزارک ---
+ستون‌کناری : 
+
+بلوک - بدون عنوان - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+
+ابزارک ناحیه بالای صفحه : 
+
+TF: محصولات - بدون عنوان - درون ریزیز شده است
+
+نوار کناری ووکامرس : 
+
+tfwctool_ajax_search_widget - بدون عنوان - سایت از ابزارک پشتیبانی نمی کند
+بلوک - بدون عنوان - درون ریزیز شده است
+فیلتر کردن محصولات بر اساس صفت - Filter by Color - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+فیلتر کردن محصولات بر اساس صفت - Filter by Brands - درون ریزیز شده است
+فیلتر کردن محصولات بر اساس صفت - Filter by Size - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+
+نوار کناری محصول : 
+
+تصویر - بدون عنوان - درون ریزیز شده است
+فهرست محصولات مشاهده‌شدۀ اخیر - Recently Viewed Products - درون ریزیز شده است
+tfwctool_wishlist_widget - Wishlist - سایت از ابزارک پشتیبانی نمی کند
+ابرچسب محصول - Product tags - درون ریزیز شده است
+
+ناحیه ابزارک صفحه محصولات : 
+
+TF: محصولات - Latest Products - درون ریزیز شده است
+TF: محصولات - Featured Products - درون ریزیز شده است
+TF: محصولات - On-Sale Products - درون ریزیز شده است
+
+ستون ناحیه ابزارک صفحه محصول : 
+
+فهرست محصولات - Highest selling - درون ریزیز شده است
+فهرست محصولات - Random Products - درون ریزیز شده است
+فهرست محصولات - Lowest Price - درون ریزیز شده است
+فهرست محصولات - Highest Price - درون ریزیز شده است
+
+ستون ناحیه ابزارک فوتر 1 : 
+
+بلوک - بدون عنوان - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+بلوک - بدون عنوان - درون ریزیز شده است
+
+ستون ناحیه ابزارک فوتر 2 : 
+
+فهرست راهبری - Site Links - درون ریزیز شده است
+
+ستون ناحیه ابزارک فوتر 3 : 
+
+بلوک - بدون عنوان - درون ریزیز شده است
+
+ستون ناحیه ابزارک فوتر 4 : 
+
+تصویر - بدون عنوان - درون ریزیز شده است
+تصویر - بدون عنوان - درون ریزیز شده است
+
+
+
+---درون ریزی تنظیمات سفارشی ساز---
+وارد کردن تنظیمات سفارشی ساز به پایان رسید!
+
+---ocdi/after_import---
+To make changes on Front Page go to Appearance -&gt; Customize
